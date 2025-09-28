@@ -34,17 +34,41 @@ for example, use GitHub online [search in repository](https://github.com/go-rod/
 You can also search the GitHub [issues](https://github.com/go-rod/rod/issues) or [discussions](https://github.com/go-rod/rod/discussions),
 a lot of usage examples are recorded there.
 
-[Here](lib/examples/compare-chromedp) is a comparison of the examples between rod and Chromedp.
+[Here is a comparison](lib/examples/compare-chromedp) of the examples between rod and Chromedp.
 
 If you have questions, please raise an [issues](https://github.com/go-rod/rod/issues)/[discussions](https://github.com/go-rod/rod/discussions) or join the [chat room][discord room].
+
+## Sponsors
+
+Rod is sponsored by many organizations and individuals, thank you for your support!
+
+Please contact [yad@ysmood.org](mailto:yad@ysmood.org) if you want to be listed here.
+
+<!-- markdownlint-disable MD033 -->
+
+<table style="border-collapse: collapse">
+  <tr>
+    <td>
+      <p>Browser testing via</p>
+      <a href="https://www.lambdatest.com/" target="_blank">
+        <img
+          src="https://www.lambdatest.com/blue-logo.png"
+          alt="LambdaTest Logo"
+          width="250"
+          height="45"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable MD033 -->
 
 ## Join us
 
 Your help is more than welcome! Even just open an issue to ask a question may greatly help others.
 
 Please read [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) before you ask questions.
-
-We use GitHub Projects to manage tasks, you can see the priority and progress of the issues [here](https://github.com/go-rod/rod/projects).
 
 If you want to contribute please read the [Contributor Guide](.github/CONTRIBUTING.md).
 
