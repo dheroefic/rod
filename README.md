@@ -54,8 +54,7 @@ Please contact [yad@ysmood.org](mailto:yad@ysmood.org) if you want to be listed 
         <img
           src="https://github.com/user-attachments/assets/3efebe85-726b-49f1-b4c9-7c0103b192f3"
           alt="TestMu AI Logo"
-          width="92"
-          height="45"
+          height="90"
         />
       </a>
     </td>
